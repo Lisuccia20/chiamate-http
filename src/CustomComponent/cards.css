@@ -1,0 +1,10 @@
+.cards{
+    display: grid;
+    place-items:center;
+    background-color: rgba(255, 228, 196, 0.2);
+    border-radius: 20px;
+}
+
+.cards:hover{
+    cursor: pointer;
+}
